@@ -4,7 +4,7 @@ title: Best Hikes
 description: Hiking guidebook for Ithaca
 img: assets/img/bestHikes_coverTrim.jpg
 importance: 1
-category: work
+category: display
 related_publications: true
 ---
 
