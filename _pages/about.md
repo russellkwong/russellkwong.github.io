@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Katz Lab</a>, Cornell University
+subtitle: <a href='https://www.thekatzlab.com/' >Katz Lab</a>, Cornell University
 
 profile:
   align: right
