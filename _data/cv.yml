@@ -1,99 +1,101 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Russell Kwong
+  label: Research Assistant
+  email: rk584 [at] cornell.edu
+  location: Queens, NY
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Aspiring conservationist with a background in urban planning
 
   social_networks:
     - network: X
-      username: AlbertEinstein
+      username: 
     - network: GitHub
-      username: example
+      username: 
     - network: LinkedIn
-      username: example
-
+      username: russell-kwong
+      
+<!--
   address:
     street: 2712 Broadway St
     city: San Francisco
     region: California
     postalCode: CA 94115
     countryCode: US
+-->
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: Cornell University
+        location: Ithaca, NY
+        url: https://aap.cornell.edu/planning/
+        area: Urban and Regional Studies
+        studyType: B.Sc.
+        start_date: 2021
+        end_date: 2025
         score: ""
-        courses: "Theory of Relativity"
+        courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+          - 'Honors Thesis: "Fleeing Climate Hazards: Evidence From U.S. Domestic Migration 1990-2022"'
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Katz Lab
+        position: Research Assistant
+        location: Ithaca, NY
+        start_date: 2025
+        end_date: 2026
+        summary: Built a database of 7 million street trees in 600+ cities to answer phenology and remote sensing questions.
         highlights:
-          - Relativity
-          - Description 2.
+          - "TreePoint, a database of urban trees in the eastern and midwestern United States [in review]."
+          - "Changes in the health-related ecosystem services and disservices provided by urban trees over multiple decades in a small city [in prepartion]."
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Cornell University Center for Cities
+        position: Research Assistant
+        location: Ithaca, NY
+        start_date: 2025
+        end_date: 2026
+        summary: Analyzed data to assess the effectiveness of climate vulnerability indicesin measureing social vulnerability.
         highlights:
-          - Description 1.
-          - Description 2.
+          - ""
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Cornell University Sustainable Design
+        position: Sustainability Researcher
+        location: Ithaca, NY
+        start_date: 2022
+        end_date: 2025
+        summary: Policy researcher to promote citywide carbon neutrality practices to meet the City of Ithaca Green New Deal. 
+        highlights: 
+          - "Driving Ithaca to Carbon Neutrality with Curbside Composting (Dec 2023)"
+          - "Curbside EV Charging Proposal for the City of Ithaca, NY (May 2022)"
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: NYC Department of City Planning
+        position: Population Research Intern
+        location: New York, NY
+        start_date: 2024
+        end_date: 2024
+        highlights: 
+          - "Wrote an automation script in ArcPy to generate 29 demographic characteristic maps for the Newest New Yorkers 2026."
+          - "Wrote and compiled scripts using the ArcGIS API to enhance web map sharing and customization across the agency."
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: Program on Applied Demographics
+        position: Demographics Research Assistant
+        location: Ithaca, NY
+        start_date: 2021
+        end_date: 2024
+        highlights: 
+          - "White paper: Population density maps for New York State counties (Feb 2024)"
+          - "White paper: New York State geographic primer (Sep 2023)"
+          - "White paper: Atlas or Urban Areas in New York State (Mar 2023)"
+          - "White paper: Counties and County Subdivisions in New York State (Aug 2022)"
 
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Learning Unlimited
+        position: Graphic Designer
+        location: 
+        start_date: 2025
+        end_date: 2026
+        summary: Publish newsletters and event logistics to support nationwide educational outreach programs.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - ""
 
     Awards:
       - title: Nobel Prize in Physics
