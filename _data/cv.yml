@@ -158,7 +158,21 @@ cv:
 
       - title: Changes in the health-related ecosystem services and disservices provided by urban trees over multiple decades in a small city
         authors:
-          - Russell Kwong, Thomas E. Victor, Noa Dijstelbloem, and Zhou Y. Dong, Ava M. Robillard, Willa A. Gagnon, Christina S. Simon, Camille I. Radhakrishnan, Keily A. Peralta, Elan C. Youngstrom, Emma C. Terjesen, Maia Tsignadze, Daphne Okuyama, Moheng Ma, Daniel S.W. Katz
+          - Russell Kwong 
+          - Thomas E. Victor 
+          - Noa Dijstelbloem 
+          - Zhou Y. Dong 
+          - Ava M. Robillard
+          - Willa A. Gagnon 
+          - Christina S. Simon
+          - Camille I. Radhakrishnan 
+          - Keily A. Peralta 
+          - Elan C. Youngstrom
+          - Emma C. Terjesen 
+          - Maia Tsignadze
+          - Daphne Okuyama 
+          - Moheng Ma 
+          - Daniel S.W. Katz
         publisher: bioRxiv
         releaseDate: 2025-02-27
         url: https://www.biorxiv.org/content/10.1101/2025.02.21.639397v1
@@ -166,7 +180,8 @@ cv:
 
       - title: Best 50 Hikes in and Around Ithaca NY
         authors:
-          - Myra Shulman, Russell Kwong
+          - Myra Shulman 
+          - Russell Kwong
         publisher: Cayuga Trails Club
         releaseDate: 2026-04-01
         url: https://cayugatrailsclub.org/buy-guidebook/
@@ -174,7 +189,13 @@ cv:
     
       - title: TreePoint, a database of urban trees in the eastern and midwestern United States
         authors:
-          - Russell Kwong, David L. Miller, Alexander R. Young, and Conor McMahon, Hannah Zonnevylle, F.D. Cowett, Daniel S.W. Katz
+          - Russell Kwong
+          - David L. Miller
+          - Alexander R. Young 
+          - Conor McMahon
+          - Hannah Zonnevylle
+          - F.D. Cowett
+          - Daniel S.W. Katz
         publisher: [in review]
         releaseDate: 2026-05-01
         url: https://zenodo.org/records/19581904
@@ -182,7 +203,15 @@ cv:
 
       - title: The Newest New Yorkers: A Statistical Portrait of Foreign-born Residents and Their Role in Shaping the City’s Population (2026 edition)
         authors:
-          - New York City Department of City Planning, Arun Peter Lobo, Eric Ketcham, Donnise Hurley, Erica Maurer, Stephen Wolkwitz, Joel Alvarez, Russell Kwong, Mariel Martinez Ledezma
+          - New York City Department of City Planning
+          - Arun Peter Lobo
+          - Eric Ketcham
+          - Donnise Hurley 
+          - Erica Maurer 
+          - Stephen Wolkwitz
+          - Joel Alvarez 
+          - Russell Kwong 
+          - Mariel Martinez Ledezma
         publisher: City of New York
         releaseDate: 2026-06-01
         url: https://www.nyc.gov/content/planning/pages/our-work/reports/newest-new-yorker
