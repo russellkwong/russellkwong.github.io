@@ -1,103 +1,100 @@
 cv:
-  name: Russell Kwong
-  label: Research Assistant
-  email: rk584 [at] cornell.edu
-  location: Queens, NY
+  name: Albert Einstein
+  label: Scientist
+  email: einstein@example.com
+  location: Princeton, NJ
   image: ""
-  summary: Aspiring conservationist with a background in urban planning
+  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   social_networks:
     - network: X
-      username: 
+      username: AlbertEinstein
     - network: GitHub
-      username: 
+      username: example
     - network: LinkedIn
-      username: russell-kwong
-      
-<!--
+      username: example
+
   address:
     street: 2712 Broadway St
     city: San Francisco
     region: California
     postalCode: CA 94115
     countryCode: US
--->
 
   sections:
     Education:
-      - institution: Cornell University
-        location: Ithaca, NY
-        url: https://aap.cornell.edu/planning/
-        area: Urban and Regional Studies
-        studyType: B.Sc.
-        start_date: 2021
-        end_date: 2025
+      - institution: University of Zurich
+        location: Zurich, Switzerland
+        url: https://www.uzh.ch/
+        area: Physics
+        studyType: PhD
+        start_date: 1900
+        end_date: 1905
         score: ""
-        courses: ""
+        courses: "Theory of Relativity"
         highlights:
-          - 'Honors Thesis: "Fleeing Climate Hazards: Evidence From U.S. Domestic Migration 1990-2022"'
+          - Description 1.
+          - Description 2.
+
+      - institution: Eidgenössische Technische Hochschule
+        location: Zurich, Switzerland
+        area: Physics
+        studyType: Federal teaching diploma
+        start_date: 1896
+        end_date: 1900
+        highlights:
+          - Description 1.
+          - Description 2.
 
     Experience:
-      - company: Katz Lab
-        position: Research Assistant
-        location: Ithaca, NY
-        start_date: 2025
-        end_date: 2026
-        summary: Built a database of 7 million street trees in 600+ cities to answer phenology and remote sensing questions.
+      - company: Institute for Advanced Study, Princeton University
+        position: Professor of Theoretical Physics
+        location: Princeton University, NJ
+        start_date: 1933
+        end_date: 1955
+        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
         highlights:
-          - "TreePoint, a database of urban trees in the eastern and midwestern United States [in review]."
-          - "Changes in the health-related ecosystem services and disservices provided by urban trees over multiple decades in a small city [in prepartion]."
+          - Relativity
+          - Description 2.
 
-      - company: Cornell University Center for Cities
-        position: Research Assistant
-        location: Ithaca, NY
-        start_date: 2025
-        end_date: 2026
-        summary: Analyzed data to assess the effectiveness of climate vulnerability indicesin measureing social vulnerability.
+      - company: California Institute of Technology
+        position: Visiting Professor
+        location: Pasadena, California, US
+        start_date: 1933
+        end_date: 1933
         highlights:
-          - ""
+          - Description 1.
+          - Description 2.
 
-      - company: Cornell University Sustainable Design
-        position: Sustainability Researcher
-        location: Ithaca, NY
-        start_date: 2022
-        end_date: 2025
-        summary: Policy researcher to promote citywide carbon neutrality practices to meet the City of Ithaca Green New Deal. 
-        highlights: 
-          - "Driving Ithaca to Carbon Neutrality with Curbside Composting (Dec 2023)"
-          - "Curbside EV Charging Proposal for the City of Ithaca, NY (May 2022)"
+      - company: Kaiser Wilhelm Institute for Physics
+        position: Director
+        location: Berlin, Germany
+        start_date: 1917
+        end_date: 1933
 
-      - company: NYC Department of City Planning
-        position: Population Research Intern
-        location: New York, NY
-        start_date: 2024
-        end_date: 2024
-        highlights: 
-          - "Wrote an automation script in ArcPy to generate 29 demographic characteristic maps for the Newest New Yorkers 2026."
-          - "Wrote and compiled scripts using the ArcGIS API to enhance web map sharing and customization across the agency."
+      - company: Karl-Ferdinand University
+        position: Professor of Theoretical Physics
+        location: Prague, Czechoslovakia
+        start_date: 1911
+        end_date: 1917
 
-      - company: Program on Applied Demographics
-        position: Demographics Research Assistant
-        location: Ithaca, NY
-        start_date: 2021
-        end_date: 2024
-        highlights: 
-          - "White paper: Population density maps for New York State counties (Feb 2024)"
-          - "White paper: New York State geographic primer (Sep 2023)"
-          - "White paper: Atlas of Urban Areas in New York State (Mar 2023)"
-          - "White paper: Counties and County Subdivisions in New York State (Aug 2022)"
+      - company: University of Zurich
+        position: Associate Professor of Theoretical Physics
+        location: Zurich, Switzerland
+        start_date: 1909
+        end_date: 1911
 
     Volunteer:
-      - company: Learning Unlimited
-        position: Graphic Designer
-        location: 
-        start_date: 2025
-        end_date: 
-        summary: Publish newsletters and event logistics to support nationwide educational outreach programs.
+      - company: People's Climate March
+        position: Lead Organizer
+        location: Zurich, Switzerland
+        start_date: 2014-04-01
+        end_date: 2015-07-01
+        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
         highlights:
-          - ""
+          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+          - "Men of the year 2014 by Time magazine"
 
-<!--
     Awards:
       - title: Nobel Prize in Physics
         authors:
@@ -113,98 +110,38 @@ cv:
         date: 2029
         awarder: German Physical Society
         summary: Awarded for outstanding scientific achievement
--->
 
     Publications:
-      - title: Counties and County Subdivisions in New York State
+      - title: Zur Elektrodynamik bewegter Körper
         authors:
-          - Russell Kwong
-        publisher: Program on Applied Demographics
-        releaseDate: 2022-08-01
-        url: https://pad.human.cornell.edu/maps2020/maps/ReferenceMaps.pdf
-        summary: White paper atlas of reference maps on counties and county subdivisions for each of the 62 counties in New York State.
+          - Albert Einstein
+        publisher: Annalen der Physik
+        releaseDate: 1905-06-30
+        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
+        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
 
-      - title: Atlas of Urban Areas in New York State
+      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
         authors:
-          - Russell Kwong
-        publisher: Program on Applied Demographics
-        releaseDate: 2023-03-01
-        url: https://pad.human.cornell.edu/maps2020/maps/UrbanAreas2020.pdf
-        summary: White paper atlas of urban areas in New York State.
+          - Albert Einstein
+        publisher: Annalen der Physik
+        releaseDate: 1905-03-18
+        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
+        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
 
-      - title: New York State geographic primer
+      - title: Die Grundlage der allgemeinen Relativitätstheorie
         authors:
-          - Russell Kwong
-        publisher: Program on Applied Demographics
-        releaseDate: 2023-09-01
-        url: https://pad.human.cornell.edu/papers/downloads/NYS_GeographicPrimer_2023.pdf
-        summary: Geography is the organizational foundation of all data produced by the Census Bureau. This primer outlines the terminology and codes you need to work with these geographies and provides descriptions and examples of each geography type. Data and geographic boundaries used in this primer are based on the 2020 Census, with the exception of those from earlier years. Geographies are classified by type and assigned appropriate codes and identifiers, usually found in a geographic header file. All geographic entities within the Census Bureau geographic system fall into one of the following categories: legal/administrative, statistical, or legislative. This geographic primer was written to help New York State data users to easily manage and understand commonly published geographic entities and state-specific areas and terminology.
-    
-      - title: Population density maps for New York State counties
-        authors:
-          - Russell Kwong
-        publisher: Program on Applied Demographics
-        releaseDate: 2024-02-01
-        url: https://pad.human.cornell.edu/maps2020/maps/PopulationDensityAtlas2020.pdf
-        summary: White paper atlas of county level population density maps in New York State.
-
-      - title: Fleeing Climate Hazards: Evidence From U.S. Domestic Migration 1990-2022
-        authors:
-          - Russell Kwong
-        publisher: Cornell University
-        releaseDate: 2025-05-01
-        url: https://ecommons.cornell.edu/entities/publication/b4a6e85d-bd97-4d7d-bb33-5662afee137b
-        summary: Residential location choice is among the largest decisions in one’s lifetime, and decisions to move are complicated by a multitude of factors. Among these factors, environmental conditions are not often cited as the primary driver of location choice. This paper explores associations between the environment, especially climate hazards, and domestic migration using publicly available data from 1990-2022. This research combines data from the Internal Revenue Service, the National Oceanic and Atmospheric Administration, and the Bureau of Economic Analysis, among other sources to present data-backed observations of climate-induced migration. Through a fixed effects model, households’ migration decisions are shown to be increasingly sensitive to hurricane disasters and extremely cold weather in recent years. This paper concludes with implications for urban planning and building resilience in the era of climate change.
-
-      - title: Changes in the health-related ecosystem services and disservices provided by urban trees over multiple decades in a small city
-        authors:
-          - Russell Kwong, Thomas E. Victor, Noa Dijstelbloem, and Zhou Y. Dong, Ava M. Robillard, Willa A. Gagnon, Christina S. Simon, Camille I. Radhakrishnan, Keily A. Peralta, Elan C. Youngstrom, Emma C. Terjesen, Maia Tsignadze, Daphne Okuyama, Moheng Ma, Daniel S.W. Katz
-        publisher: bioRxiv
-        releaseDate: 2025-02-27
-        url: https://www.biorxiv.org/content/10.1101/2025.02.21.639397v1
-        summary: This paper tracks health-related ecosystem service provisions by street trees as a function of the changing citywide tree population and ambient environmental conditions over 77 years in Ithaca, NY.
-
-      - title: Best 50 Hikes in and Around Ithaca NY
-        authors:
-          - Myra Shulman, Russell Kwong
-        publisher: Cayuga Trails Club
-        releaseDate: 2026-04-01
-        url: https://cayugatrailsclub.org/buy-guidebook/
-        summary: The book is a comprehensive guide to hiking in the Ithaca region, featuring hikes of different lengths for people of varying abilities. It includes detailed maps with QR codes linked to digital routes, essentials for each location, and information about the region’s natural and human history. The hikes cover more than 240 miles of trails in and near Tompkins County.
-    
-      - title: TreePoint, a database of urban trees in the eastern and midwestern United States
-        authors:
-          - Russell Kwong, David L. Miller, Alexander R. Young, and Conor McMahon, Hannah Zonnevylle, F.D. Cowett, Daniel S.W. Katz
-        publisher: [in review]
-        releaseDate: 2026-05-01
-        url: https://zenodo.org/records/19581904
-        summary: A street tree database of over 7 million trees in across 600 cities in the eastern and midwestern US. This publicly available database can be used to answer questions relevant to tree management, ecology, and evolution across broad spatial and climatic scales.
-
-      - title: The Newest New Yorkers: A Statistical Portrait of Foreign-born Residents and Their Role in Shaping the City’s Population (2026 edition)
-        authors:
-          - New York City Department of City Planning, Arun Peter Lobo, Eric Ketcham, Donnise Hurley, Erica Maurer, Stephen Wolkwitz, Joel Alvarez, Russell Kwong, Mariel Martinez Ledezma
-        publisher: City of New York
-        releaseDate: 2026-06-01
-        url: https://www.nyc.gov/content/planning/pages/our-work/reports/newest-new-yorker
-        summary: This book provides a comprehensive portrait of immigrants in New York City. It examines the countries of origin of the city’s foreign-born, their patterns of residence, their demographic and socioeconomic characteristics, the legal paths of entry of newly admitted immigrants, the role of the foreign-born in the New York region, and finally assesses the demographic impact of immigrants on the city.
+          - Albert Einstein
+        publisher: Annalen der Physik
+        releaseDate: 1916-03-20
+        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
+        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
-      - name: Spatial Analysis
-        level: Advanced
+      - name: Physics
+        level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Spatial Statistics, Econometrics, ArcPy, ArcGIS Pro, QGIS, Google Earth Engine, Land Suitability, Cartography"
+        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-      - name: Data Analysis
-        level: Intermediate
-        icon: fa-solid fa-hashtag
-        keywords: "RStudio, Python, SQL, PostgreSQL, Microsoft Excel"
-    
-      - name: Presentation and Graphics
-        level: Advanced
-        icon: fa-solid fa-hashtag
-        keywords: "Report writing, Adobe Creative Suite/Affinity Design, SketchUp"
-
-<!--
     Languages:
       - name: German
         summary: "Native speaker"
@@ -250,4 +187,3 @@ cv:
       - name: Professor Jane Smith
         icon: fa-solid fa-thumbtack
         reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
--->
