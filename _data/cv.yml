@@ -84,7 +84,7 @@ cv:
         highlights: 
           - "White paper: Population density maps for New York State counties (Feb 2024)"
           - "White paper: New York State geographic primer (Sep 2023)"
-          - "White paper: Atlas or Urban Areas in New York State (Mar 2023)"
+          - "White paper: Atlas of Urban Areas in New York State (Mar 2023)"
           - "White paper: Counties and County Subdivisions in New York State (Aug 2022)"
 
     Volunteer:
@@ -92,11 +92,12 @@ cv:
         position: Graphic Designer
         location: 
         start_date: 2025
-        end_date: 2026
+        end_date: 
         summary: Publish newsletters and event logistics to support nationwide educational outreach programs.
         highlights:
           - ""
 
+<!--
     Awards:
       - title: Nobel Prize in Physics
         authors:
@@ -112,38 +113,98 @@ cv:
         date: 2029
         awarder: German Physical Society
         summary: Awarded for outstanding scientific achievement
+-->
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Counties and County Subdivisions in New York State
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Russell Kwong
+        publisher: Program on Applied Demographics
+        releaseDate: 2022-08-01
+        url: https://pad.human.cornell.edu/maps2020/maps/ReferenceMaps.pdf
+        summary: White paper atlas of reference maps on counties and county subdivisions for each of the 62 counties in New York State.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Atlas of Urban Areas in New York State
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Russell Kwong
+        publisher: Program on Applied Demographics
+        releaseDate: 2023-03-01
+        url: https://pad.human.cornell.edu/maps2020/maps/UrbanAreas2020.pdf
+        summary: White paper atlas of urban areas in New York State.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: New York State geographic primer
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Russell Kwong
+        publisher: Program on Applied Demographics
+        releaseDate: 2023-09-01
+        url: https://pad.human.cornell.edu/papers/downloads/NYS_GeographicPrimer_2023.pdf
+        summary: Geography is the organizational foundation of all data produced by the Census Bureau. This primer outlines the terminology and codes you need to work with these geographies and provides descriptions and examples of each geography type. Data and geographic boundaries used in this primer are based on the 2020 Census, with the exception of those from earlier years. Geographies are classified by type and assigned appropriate codes and identifiers, usually found in a geographic header file. All geographic entities within the Census Bureau geographic system fall into one of the following categories: legal/administrative, statistical, or legislative. This geographic primer was written to help New York State data users to easily manage and understand commonly published geographic entities and state-specific areas and terminology.
+    
+      - title: Population density maps for New York State counties
+        authors:
+          - Russell Kwong
+        publisher: Program on Applied Demographics
+        releaseDate: 2024-02-01
+        url: https://pad.human.cornell.edu/maps2020/maps/PopulationDensityAtlas2020.pdf
+        summary: White paper atlas of county level population density maps in New York State.
+
+      - title: Fleeing Climate Hazards: Evidence From U.S. Domestic Migration 1990-2022
+        authors:
+          - Russell Kwong
+        publisher: Cornell University
+        releaseDate: 2025-05-01
+        url: https://ecommons.cornell.edu/entities/publication/b4a6e85d-bd97-4d7d-bb33-5662afee137b
+        summary: Residential location choice is among the largest decisions in one’s lifetime, and decisions to move are complicated by a multitude of factors. Among these factors, environmental conditions are not often cited as the primary driver of location choice. This paper explores associations between the environment, especially climate hazards, and domestic migration using publicly available data from 1990-2022. This research combines data from the Internal Revenue Service, the National Oceanic and Atmospheric Administration, and the Bureau of Economic Analysis, among other sources to present data-backed observations of climate-induced migration. Through a fixed effects model, households’ migration decisions are shown to be increasingly sensitive to hurricane disasters and extremely cold weather in recent years. This paper concludes with implications for urban planning and building resilience in the era of climate change.
+
+      - title: Changes in the health-related ecosystem services and disservices provided by urban trees over multiple decades in a small city
+        authors:
+          - Russell Kwong, Thomas E. Victor, Noa Dijstelbloem, and Zhou Y. Dong, Ava M. Robillard, Willa A. Gagnon, Christina S. Simon, Camille I. Radhakrishnan, Keily A. Peralta, Elan C. Youngstrom, Emma C. Terjesen, Maia Tsignadze, Daphne Okuyama, Moheng Ma, Daniel S.W. Katz
+        publisher: bioRxiv
+        releaseDate: 2025-02-27
+        url: https://www.biorxiv.org/content/10.1101/2025.02.21.639397v1
+        summary: This paper tracks health-related ecosystem service provisions by street trees as a function of the changing citywide tree population and ambient environmental conditions over 77 years in Ithaca, NY.
+
+      - title: Best 50 Hikes in and Around Ithaca NY
+        authors:
+          - Myra Shulman, Russell Kwong
+        publisher: Cayuga Trails Club
+        releaseDate: 2026-04-01
+        url: https://cayugatrailsclub.org/buy-guidebook/
+        summary: The book is a comprehensive guide to hiking in the Ithaca region, featuring hikes of different lengths for people of varying abilities. It includes detailed maps with QR codes linked to digital routes, essentials for each location, and information about the region’s natural and human history. The hikes cover more than 240 miles of trails in and near Tompkins County.
+    
+      - title: TreePoint, a database of urban trees in the eastern and midwestern United States
+        authors:
+          - Russell Kwong, David L. Miller, Alexander R. Young, and Conor McMahon, Hannah Zonnevylle, F.D. Cowett, Daniel S.W. Katz
+        publisher: [in review]
+        releaseDate: 2026-05-01
+        url: https://zenodo.org/records/19581904
+        summary: A street tree database of over 7 million trees in across 600 cities in the eastern and midwestern US. This publicly available database can be used to answer questions relevant to tree management, ecology, and evolution across broad spatial and climatic scales.
+
+      - title: The Newest New Yorkers: A Statistical Portrait of Foreign-born Residents and Their Role in Shaping the City’s Population (2026 edition)
+        authors:
+          - New York City Department of City Planning, Arun Peter Lobo, Eric Ketcham, Donnise Hurley, Erica Maurer, Stephen Wolkwitz, Joel Alvarez, Russell Kwong, Mariel Martinez Ledezma
+        publisher: City of New York
+        releaseDate: 2026-06-01
+        url: https://www.nyc.gov/content/planning/pages/our-work/reports/newest-new-yorker
+        summary: This book provides a comprehensive portrait of immigrants in New York City. It examines the countries of origin of the city’s foreign-born, their patterns of residence, their demographic and socioeconomic characteristics, the legal paths of entry of newly admitted immigrants, the role of the foreign-born in the New York region, and finally assesses the demographic impact of immigrants on the city.
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Spatial Analysis
+        level: Advanced
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Spatial Statistics, Econometrics, ArcPy, ArcGIS Pro, QGIS, Google Earth Engine, Land Suitability, Cartography"
 
+      - name: Data Analysis
+        level: Intermediate
+        icon: fa-solid fa-hashtag
+        keywords: "RStudio, Python, SQL, PostgreSQL, Microsoft Excel"
+    
+      - name: Presentation and Graphics
+        level: Advanced
+        icon: fa-solid fa-hashtag
+        keywords: "Report writing, Adobe Creative Suite/Affinity Design, SketchUp"
+
+<!--
     Languages:
       - name: German
         summary: "Native speaker"
@@ -189,3 +250,4 @@ cv:
       - name: Professor Jane Smith
         icon: fa-solid fa-thumbtack
         reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+-->
