@@ -1,16 +1,12 @@
 cv:
   name: Russell Kwong
   label: Research Assistant
-  email: rk584 [at] cornell.edu
+  email: rk584@cornell.edu
   location: Queens, NY
   image: ""
   summary: Aspiring conservationist with a background in urban planning
 
   social_networks:
-    - network: X
-      username: 
-    - network: GitHub
-      username: 
     - network: LinkedIn
       username: russell-kwong
       
