@@ -38,7 +38,7 @@ cv:
         position: Research Assistant
         location: Ithaca, NY
         start_date: 2025
-        end_date: 2026
+        end_date: present
         summary: Built a database of 7 million street trees in 600+ cities to answer phenology and remote sensing questions.
         highlights:
           - "TreePoint, a database of urban trees in the eastern and midwestern United States [in review]."
